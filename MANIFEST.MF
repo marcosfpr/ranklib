@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.7
+Created-By: 11.0.9.1+1-Ubuntu-0ubuntu1.20.04 (Ubuntu)
+Built-By: vdang
+Main-Class: ciir.umass.edu.eval.Evaluator
+Class-Path: 
+
